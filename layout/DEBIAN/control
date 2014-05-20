@@ -1,0 +1,11 @@
+Package: org.chronic-dev.animate
+Depends: preferenceloader
+Conflicts: imagemagick,animatefixforios7
+Name: animate
+Version: 2.0.1b
+Architecture: iphoneos-arm
+Description: This is the iOS 7 arm64 compatible version of the Chronic-Dev Team’s open source boot logo tool, animate. NOTE: THERE IS NO NEED TO INSTALL ANIMATE FIX FOR IOS 7.X.X THIS INCLUDES THAT FIX ALL IN ONE!
+Maintainer: william_vab <wvabrinskas@gmail.com>
+Author: william_vab <wvabrinskas@gmail.com>
+Section: System
+Tag: role::hacker
