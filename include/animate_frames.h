@@ -7,7 +7,7 @@
 typedef struct _anim_sequence {
         const char *data;
         NSInteger size;
-        CGFloat delay;
+        float delay;
 } anim_sequence;
 
 static anim_sequence seq[] = {
